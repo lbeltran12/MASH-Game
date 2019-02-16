@@ -1,6 +1,6 @@
 /* Body styling */
 body {
-  background: #800000;
+  background: #000080;
   color: #fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #cc0000;
+  color: #000080;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -90,9 +90,9 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: #00ff00;
   border-radius: 6px;
-  color: #713e94;
+  color: #fff;
   transition: 1s linear;
 }
 
