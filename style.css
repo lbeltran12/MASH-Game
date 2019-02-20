@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 85px;
-  color: #000;
+  color: #fff;
   text-align: center;
 }
 
@@ -90,9 +90,9 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #00ff00;
+  background: #fff;
   border-radius: 6px;
-  color: #fff;
+  color: #000080;
   transition: 1s linear;
 }
 
