@@ -1,6 +1,6 @@
 /* Body styling */
 body {
-  background: #00ced1;
+  background: #00bfff;
   color: #fff;
   font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
   font-size: 27px;
@@ -90,7 +90,7 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #009c9e;
+  background: #FF2A47;
   border-radius: 6px;
   color: #fff;
   transition: 1s linear;
